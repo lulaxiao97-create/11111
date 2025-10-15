@@ -1,0 +1,7 @@
+{
+  "name": "ethscan",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node scanner.js"
+  }
+}
